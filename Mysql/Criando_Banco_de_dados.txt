@@ -1,0 +1,6 @@
+# Comando para criar o banco de dados no workbench:
+
+#create database banco_of;
+
+#Comando para especificar qual o banco está sendo utilizado:
+#use banco_of;

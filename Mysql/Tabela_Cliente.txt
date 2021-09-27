@@ -1,0 +1,13 @@
+#Criar tabela Cliente no banco
+
+#create table tb_cliente;
+
+#Criando os inserts:
+
+#insert into tb_cliente values(
+null,'05818736778','joao.8@email.com','Joao Lima','11984558520'
+);
+#create table tb_cliente;
+insert into tb_cliente values(
+null,'0581976878','paula@email.com','Paula Santos','11984598689'
+);

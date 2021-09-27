@@ -1,0 +1,18 @@
+#Criar a tabela conta
+
+# create table tb_conta;
+
+# Criar os inserts
+
+
+#insert into tb_conta values(
+null,4586,100.00,0,1
+);
+
+#insert into tb_conta values(
+null,4182,100.00,1,2
+);
+
+#insert into tb_conta values(
+null,7825,100.00,2,3
+);

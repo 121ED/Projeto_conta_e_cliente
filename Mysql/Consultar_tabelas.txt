@@ -1,0 +1,4 @@
+#SELECT * FROM nome do banco.nome da tabela
+#SELECT * FROM banco_of.tb_cliente;
+
+#SELECT * FROM banco_of.tb_conta;
